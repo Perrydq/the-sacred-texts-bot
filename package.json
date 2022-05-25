@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  },
+  "name": "sacred-texts-bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perrydq/the-sacred-texts-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Perrydq/the-sacred-texts-bot/issues"
+  },
+  "homepage": "https://github.com/Perrydq/the-sacred-texts-bot#readme",
+  "description": ""
+}
